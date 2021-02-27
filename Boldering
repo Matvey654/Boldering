@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="css";>
+        <img src="https://mars.algoritmika.org/uploads/2020/12/header_0_1609082687.svg";</head>
+    <body>
+        <main>
+            <header>
+                <p style="margin: 10 px;">Расписание</p>
+            <p style="margin: 10 px;">О занятиях</p>
+            <p style="margin: 10 px;">Адреса клубов</p></header>
+            <h1 style="text-align: center;">Болдеринг</h1>
+            <img class="boldering" src="https://mars.algoritmika.org/uploads/2020/12/image1_0_1609082687.png">
+            <img class="boldering" src="https://mars.algoritmika.org/uploads/2020/12/image2_0_1609082687.png">
+            <img class="boldering" src="https://mars.algoritmika.org/uploads/2020/12/image3_0_1609082687.png">
+            Никогда не были на скалодроме? — Скорее сделайте первую попытку залезть наверх! На наших площадках залы разной трудности. Тренировки безопасны, для новичков предусмотрена автостраховка, в залах работают инструкторы. Для детей выделенные зоны с увлекательными аттракционами. Есть абонемент, скидки и система индивидуальных занятий. Перед посещением, пожалуйста, ознакомьтесь с правилами техники безопасности.
+            </main>
+            <footer>
+            <p class="footer">E-mail</p>
+            <p class="footer">Телефон</p>
+            </footer>
+    </body>
+</html>
